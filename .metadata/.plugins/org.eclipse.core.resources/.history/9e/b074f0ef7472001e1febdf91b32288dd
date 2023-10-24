@@ -39,6 +39,5 @@ public class Lesson46Intersection {
 	        //Use iter3 to cycle through all objects in s3 and then print them.
 	      }
 	}
-	//Donut
 
 }
