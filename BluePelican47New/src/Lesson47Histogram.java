@@ -1,3 +1,5 @@
+//pg.330
+
 import java.util.*;
 import java.io.*;
 
@@ -16,11 +18,16 @@ public class Lesson47Histogram {
 	       //System.out.print(text[0]);
 	       String words[] = text[0].split(", ");
 	       System.out.println(words[1]);
+	       
+	       
 	       Map<String, Integer> myMap = new TreeMap<String, Integer>();
-	       for()
-	       for(int i=0; i<words.length;i++) {
-	    	   myMap.p
+	     for(int r=0; r<words.length;r++){
+	       
 	       }
+
+	
+	
+	
 	}
 
 }
